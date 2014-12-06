@@ -1,0 +1,6 @@
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\bin\Debug\Decorator_Mode.exe.config
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\bin\Debug\Decorator_Mode.exe
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\bin\Debug\Decorator_Mode.pdb
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\obj\Debug\Decorator_Mode.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\obj\Debug\Decorator_Mode.exe
+C:\Users\OI\Documents\git\Decorator_Model\Decorator_Mode\obj\Debug\Decorator_Mode.pdb
